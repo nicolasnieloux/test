@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Projet Portfolio\\HTML CSS"
+		},
+		{
+			"path": "..\\..\\Projet Bootstrap"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projet Bootstrap"
+	}
+}

@@ -1,0 +1,195 @@
+.navbar-custom{
+
+    color: #2CD4D9;
+}
+
+
+.nav-link{
+    color: #2CD4D9 !important;
+}
+
+.navbar-toggler{
+    color: #2CD4D9 !important;
+}
+
+#photoprofil{
+
+    margin-top: 50px;
+
+
+}
+
+#A_propos_de_moi{
+    margin-top: 50px;
+}
+/*
+.Titre_section{
+    color:#2CD4D9;
+}
+*/
+.citation{
+    font-size: 20px;
+    display:flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+#Contact{
+    background-color: #0B3956;
+}
+
+.form-button{
+    margin-top: 25px;
+}
+
+#CV{
+   margin-top: 50px;
+   margin-bottom: 50px;
+   height: 60px;
+    background: #2CD4D9;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+#com{
+    font-size: 25px;
+}
+
+#footer{
+    height: 250px;
+    background-color:#06283D ;
+
+}
+
+
+#Mon_parcours{
+    background-color: #2CD4D920; /*couleur avec opacité juste sur le fond de 20%*/
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+
+
+.RNCP {
+    border-width: 5px;
+    border-left:none ;
+    border-right-style:solid; 
+    border-top-style:none;
+    border-bottom-style:none;
+    border-color: grey;
+    width: 300px;
+    height:100px;
+    padding-top: 20px;
+     position:relative;
+
+}
+
+
+.MASTER{
+    border-width: 5px;
+    border-left:none ;
+    border-right-style:solid; 
+    border-top-style:none;
+    border-bottom-style:none;
+    border-color: grey;
+    width: 300px;
+    height:100px;
+    padding-top: 20px;
+    position:relative;
+
+}
+
+.DUT{
+    border-width: 5px;
+    border-left:none ;
+    border-right-style:solid; 
+    border-top-style:none;
+    border-bottom-style:none;
+    border-color: grey;
+    width: 300px;
+    height:100px;
+    padding-top: 20px;
+    position:relative;
+
+}
+
+.annee{
+    margin-top: 20px;
+    margin-left: 270px;
+
+    border-left:none ;
+    border-right-style:none; 
+    border-top-style:none;
+    border-bottom-style:none;
+    border-color: black;
+    width: 60px;
+    height:60px;
+    border-radius: 30px;
+    position:absolute;
+    z-index: 1;
+    background-color: #2CD4D9;
+}
+
+
+
+
+.colis {
+    border-width: 5px;
+    border-left:none ;
+    border-right-style:solid; 
+    border-top-style:none;
+    border-bottom-style:none;
+    border-color: grey;
+    width: 300px;
+    height:100px;
+    padding-top: 20px;
+     position:relative;
+
+}
+
+
+.O2{
+    border-width: 5px;
+    border-left:none ;
+    border-right-style:solid; 
+    border-top-style:none;
+    border-bottom-style:none;
+    border-color: grey;
+    width: 300px;
+    height:100px;
+    padding-top: 20px;
+    position:relative;
+
+}
+
+.TROC{
+    border-width: 5px;
+    border-left:none ;
+    border-right-style:solid; 
+    border-top-style:none;
+    border-bottom-style:none;
+    border-color: grey;
+    width: 300px;
+    height:100px;
+    padding-top: 20px;
+    position:relative;
+
+}
+
+.annee2{
+    margin-top: 20px;
+    margin-left: 270px;
+    border-left:none ;
+    border-right-style:none; 
+    border-top-style:none;
+    border-bottom-style:none;
+    width: 60px;
+    height:60px;
+    border-radius: 30px;
+    position:absolute;
+    z-index: 1;
+    background-color: #47B5FF;
+}
